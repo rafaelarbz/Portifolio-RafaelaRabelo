@@ -3,7 +3,7 @@
         <h1 align="center">Portifólio Pessoal</h1>
         <pre>
             <div class="wrap">
-                <div align="center">loading...</div>
+                <div align="center">🚀</div>
             </div>
         </pre>
     </div>
@@ -11,8 +11,8 @@
         <h1>Finalidade</h1>
         <pre>
             <div class="wrap">
-                <div align="justify">Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
-                   para produzir um potifólio digital de apresentação profissional</div>
+                <p align="justify">Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
+                   para produzir um potifólio digital de apresentação profissional</p>
             </div>
         </pre>
     </div>
