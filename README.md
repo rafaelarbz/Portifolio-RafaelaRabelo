@@ -3,7 +3,7 @@
         <h1 align="center">Portifólio Pessoal</h1>
         <pre>
             <div class="wrap">
-                <div>EM DESENVOLVIMENTO</div>
+                <div align="center">EM DESENVOLVIMENTO</div>
             </div>
         </pre>
     </div>
