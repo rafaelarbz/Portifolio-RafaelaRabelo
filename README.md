@@ -5,3 +5,6 @@
 - Apresentação Profissional
 
 ## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
