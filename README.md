@@ -8,11 +8,11 @@
         </pre>
     </div>
     <div class="container">
-        <h1>Finalidade</h1>
+        <h1>Objetivo</h1>
         <pre>
             <div class="wrap">
-                <p align="justify">Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
-                   para produzir um potifólio digital de apresentação profissional</p>
+                <div align="justify">Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
+                   para produzir um potifólio digital de apresentação profissional</div>
             </div>
         </pre>
     </div>
