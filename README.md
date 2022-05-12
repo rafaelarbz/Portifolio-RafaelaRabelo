@@ -3,7 +3,7 @@
         <h1>Portifólio Pessoal</h1>
         <pre>
             <div class="wrap">
-                <p>Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
+                <p style="align-text:justify;">Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
                    para produzir um potifólio digital para apresentação profissional</p>
             </div>
         </pre>
