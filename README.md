@@ -7,12 +7,12 @@
             </div>
         </pre>
         <h1>Objetivo</h1>
-        <pre>
+       
             <div class="wrap">
                 #Exercitar habilidades
                 #Apresentação Profissional
             </div>
-        </pre>
+       
         <h1>Tecnologias</h1>
         <pre>
             <div class="wrap">
