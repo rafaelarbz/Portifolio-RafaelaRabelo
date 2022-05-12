@@ -9,13 +9,17 @@
         </pre>
         
         <h1>Objetivo</h1>
-            <div class="wrap">
-                
-            </div>
+        <pre>
+
+                <div align="center">🚀</div>
+
+        </pre>
        
         <h1>Tecnologias</h1>
-            <div class="wrap">
+        <pre>
 
-            </div>
+                <div align="center">🚀</div>
+          
+        </pre>
     </div>
 </html>
