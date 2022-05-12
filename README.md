@@ -1,5 +1,5 @@
 <html>
-<h2 style="align:center;">Example of code</h2>
+<div style="align:center;"><h2>Example of code</h2></div>
 
 <pre>
     <div class="container">
