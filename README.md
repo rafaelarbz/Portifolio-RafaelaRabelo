@@ -1,6 +1,4 @@
 <html>
-<div style="align:center;"><h2>Example of code</h2></div>
-
 <pre>
     <div class="container">
         <div class="block two first">
