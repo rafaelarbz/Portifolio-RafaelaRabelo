@@ -1,5 +1,5 @@
 ## Portifólio Pessoal
 
 ## Objetivos
-- Exercitar habilidades
-- Apresentação profissional
+- Exercitar Habilidades
+- Apresentação Profissional
