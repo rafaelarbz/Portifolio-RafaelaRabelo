@@ -1,9 +1,6 @@
 <html>
     <div class="container">
-        <h1>Portifólio Pessoal</h1>
-        <style>
-            h1{text-align: center;}
-        </style>
+        <h1 align="center">Portifólio Pessoal</h1>
         <pre>
             <div class="wrap">
                 <div style="text-align:justify;">Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
