@@ -11,8 +11,8 @@
         <h1>Objetivo</h1>
         <pre>
             <div class="wrap">
-                <h5 align="justify">Este portifólio está em desenvolvimento, o propósito deste projeto é exercitar minhas habilidades como Desenvolvedora
-                   para produzir um potifólio digital de apresentação profissional</h5>
+                #Exercitar habilidades
+                #Apresentação Profissional
             </div>
         </pre>
     </div>
