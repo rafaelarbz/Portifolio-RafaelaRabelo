@@ -1,4 +1,5 @@
 #Portifólio Pessoal
-#Objetivos
->Exercitar habilidades
->Apresentação profissional
+
+>#Objetivos
+>>-Exercitar habilidades
+>>-Apresentação profissional
