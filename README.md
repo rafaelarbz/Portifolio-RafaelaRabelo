@@ -1,5 +1,7 @@
 ## Portifólio Pessoal
 
-## Objetivos
+## 🎯 Objetivos 
 - Exercitar Habilidades
 - Apresentação Profissional
+
+## 🚀 Tecnologias
