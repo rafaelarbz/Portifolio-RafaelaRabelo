@@ -8,3 +8,5 @@
 - HTML
 - CSS
 - JavaScript
+
+###### Desenvolvido por [Rafaela Rabelo](https://linkedin.com/in/rafaelarsouza).
